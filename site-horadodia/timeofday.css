@@ -1,0 +1,29 @@
+body {
+    background: rgb(187, 187, 255);
+    font-family: 'Mulish', sans-serif;
+}
+
+section {
+    background-color: white;
+    border-radius: 10%;
+    width: 500px;
+    box-shadow: rgba(0, 0, 0, 0.336) 5px 5px 10px;
+    padding: 15px;
+    margin: auto;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+div {
+    text-align: center;
+    padding: 9px;
+}
